@@ -1,0 +1,5 @@
+com\example\h2database\repository\StuRepository.class
+com\example\h2database\model\Student.class
+com\example\h2database\service\StuService.class
+com\example\h2database\H2DatabaseApplication.class
+com\example\h2database\controller\StuController.class
